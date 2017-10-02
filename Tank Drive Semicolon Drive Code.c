@@ -52,6 +52,8 @@ void moveUp( int time)
    motor[Mlift2] = -127;
  wait1Msec(time);
    }
+
+if (true){
 void moveDown( int time)
  {
    motor[Mlift1] = 127;

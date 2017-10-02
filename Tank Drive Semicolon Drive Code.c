@@ -53,7 +53,7 @@ void moveUp( int time)
  wait1Msec(time);
    }
 
-if (true){
+
 void moveDown( int time)
  {
    motor[Mlift1] = 127;
